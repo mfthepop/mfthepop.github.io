@@ -1,0 +1,54 @@
+Datenschutzerklärung
+Allgemeiner Hinweis
+Diese Datenschutzerklärung klärt dich über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten im Zusammenhang mit der Nutzung unseres Onlineangebots und der mit ihm verbundenen Webseiten, Funktionen und Inhalte auf. Im Hinblick auf die verwendeten Begrifflichkeiten verweisen wir auf die Definitionen in Art. 4 der Datenschutzgrundverordnung (DSGVO).
+Verantwortlicher i.S.v. Art. 4 (7) DSGVO
+
+
+Mehrdad Farokhy
+Hudtwalckerstraße 27, 
+22299 Hamburg
+Kontakt: mehrdad@farokhy.de
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich.
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+Welche personenbezogenen Daten wir sammeln und warum wir sie sammeln
+Seitenstatistiken
+Wir verwenden das WordPress Plugin “WP Statistics”, um die Nutzung der Website zu analysieren. Wir tun dies auf Basis unseres berechtigten Interesses ein besseres Verständnis für die Zugänglichkeit der Website und Inhalte erlangen, um unser Angebot gezielt erweitern und verbessern zu können.
+Hierfür wird deine IP Adresse anonymisiert gespeichert (ein Rückschluss auf dich bzw. deinen Internetanschluss ist nicht möglich). Die so erhobenen Daten werden nicht an Dritte weitergegeben sondern nur auf unserem Server gespeichert.
+Kontaktaufnahme über E-Mail
+Wenn du die auf dieser Website angegebenen E-Mail-Adressen zwecks Kontaktaufnahme nutzt, speichern wir die Informationen, welche du uns mitteilst (z.B. deine E-Mail-Adresse, den Namen, unter dem du uns kontaktierst, ggfs. eine Telefonnummer, wenn du diese angibst), damit wir mit dir kommunizieren können. Diese Daten werden nicht an Dritte weitergegeben. Nach Beendigung der Kommunikation kannst du von uns fordern, alle personenbezogenen Daten zu löschen.
+Cookies
+Die Website verwendet teilweise so genannte Cookies. Cookies richten auf deinem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf deine Rechner abgelegt werden und die dein Browser speichert.
+Die einzigen von uns verwendeten Cookies sind so genannte „Session-Cookies“. Diese sind technisch notwendig, enthalten keinen personenbezogenen Daten und werden nach Ende deines Besuchs automatisch gelöscht.
+Du kannst deinen Browser so einstellen, dass du über das Setzen von Cookies informiert wirst, sowie Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell auszuschließen sowie das automatische Löschen der Cookies beim Schließen des Browser zu aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
+Eingebettete Inhalte von anderen Websites
+Seiten auf dieser Website können eingebettete Inhalte (Youtube-Videos) enthalten. Eingebettete Inhalte von anderen Websites verhalten sich teilweise genauso, als ob der Besucher diese andere Website besucht hätte.
+Youtube-Videos auf dieser Website werden im Format www.youtube-nocookie.com eingebettet, das das Setzen von Cookies von www.youtube.com verhindert.
+Youtube-Videos können beim Ansehen weiterhin anonym andere Daten verfolgen, insbesondere wenn du bei YouTube eingeloggt bist.
+Weitere Informationen zum Umgang von Nutzerdaten findest du in der Datenschutzerklärung von YouTube unter: https://www.google.de/intl/de/policies/privacy.
+E-Mail Newsletter
+Der Indie Treff versendet gelegentlich Newsletter, um über bevorstehende Veranstaltungen und Angebote zu informieren.
+Die Anmeldung zum Newsletter über diese Seite und dessen Versand werden über den Dienstleister „Mailchimp“ abgewickelt. „Mailchimp“ speichert in unserem Auftrag die von dir angegebene E-Mail Adresse, an die wir unseren Newsletter versenden. „Mailchimp“ handelt dabei konform zur europäischen Datenschutzgrundverordnung (weiterführende Informationen).
+Nach deiner Anmeldung erhälst du eine E-Mail an die angegebenen E-Mail Adresse. Erst bei deren Bestätigung wirst du für den Newsletter angemeldet (Double-Opt-In). Du kannst die Anmeldung zum Newsletter jederzeit widerrufen, indem du auf den entsprechenden Link in der Fußzeile einer unserer Newsletter E-Mails klickst.
+Die Bestätigung deiner Anmeldung erfolgt über die Seite von „Mailchimp“. Hierbei können Cookies gespeichert und andere Daten erhoben werden. Bitte beachte hierzu die Datenschutzerklärung und Cookie-Richtlinien von „Mailchimp“.
+Wie lange wir deine Daten speichern
+Seitenstatistiken
+Deine anonymisierten Daten werden zur langfristingen Nutzungsanalyse bis zu zwei Jahre gespeichert und dann automatisch gelöscht. Sie werden ebenfalls gelöscht, sobald sie für die Nutzungsanalyse nicht länger relevant sind.
+Cookies
+„Session-Cookies“ werden entfernt, sobald du diese Website verlässt.
+Persönliche Daten per E-Mail
+Per E-Mail übermittelte personenbezogene Daten werden solange gespeichert, wie dies zur Beantwortung deiner Anfrage erforderlich ist.
+Führt deine Anfrage zu Verträgen oder Finanztransaktionen, werden die entsprechenden Daten im Hinblick auf unsere gesetzlichen Verpflichtungen gegenüber Finanzämtern und anderen staatlichen Stellen gespeichert.
+E-Mail Newsletter
+Deine Daten für den Indie Treff Newsletter (deine E-Mail Adresse) werden so lange gespeichert wie sie für den gelegentlichen Versand des Newsletter erforderlich sind. Deine Daten werden automatisch gelöscht sobald du dich vom Newsletter abmeldest, indem du auf den entsprechenden Link in der Fußzeile einer unserer Newsletter E-Mails klickst, oder wir den Newsletter nicht länger versenden.
+Wie wir deine Daten schützen
+Wir ergreifen alle angemessenen Maßnahmen, um Ihre personenbezogenen Daten zu schützen.
+Technischer Schutz
+Ihre persönlichen Daten werden durch aktuelle Firewalls und Sicherheitsprogramme sowie starke Passwörter geschützt.
+Organisatorischer Schutz
+Ihre persönlichen Daten werden mit größter Sorgfalt behandelt und nur von den notwendigen Personen eingesehen.
+Welche Rechte du an deinen Daten hast
+Du kannst von uns die Herausgabe deiner personenbezogenen Daten verlangen, einschließlich aller Daten, die du uns gegeben hast.
+Darüber hinaus kannst du die Löschung aller personenbezogenen Daten verlangen, die wir über dich gespeichert haben.
+Dies umfasst nicht die Daten, die wir aufgrund administrativer, rechtlicher oder sicherheitsrelevanter Notwendigkeiten aufbewahren müssen.
+Bitte beachte, dass eine Zuordnung von anonymisierten Daten in logischer Konsequenz nicht möglich ist und wir daher hierzu keine Auskünfte erteilen können.
+
